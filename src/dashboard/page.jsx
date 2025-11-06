@@ -34,8 +34,8 @@ function Page() {
               that curiosity turned into a full-fledged career in front-end development.
             </p>
             <p>
-              I specialize in building responsive, modern applications using <strong>React.js</strong>, 
-              <strong> JavaScript (ES6+)</strong>, and <strong>Tailwind CSS</strong>. 
+              I specialize in building responsive, modern applications using <strong>React.js</strong>, <strong>Java</strong>, 
+              <strong> JavaScript </strong>, <strong>Python</strong>, <strong>Node.js</strong>, <strong>Go Land</strong> and <strong>HTML & CSS</strong>. 
               I enjoy clean design, intuitive user interfaces, and writing code that’s both elegant and efficient. 
               For me, development is not just about functionality — it’s about creating meaningful 
               connections between people and technology.
