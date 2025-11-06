@@ -59,17 +59,17 @@ function Page() {
         <div className="project-card">
           <h3>Portfolio Website</h3>
           <p>A personal site to showcase my projects, skills, and creative journey as a developer.</p>
-          <a href="https://github.com/yourusername/portfolio" target="_blank" rel="noopener noreferrer">View Code</a>
+          <a href="http://my-portfolio-tau-navy-81.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a>
         </div>
         <div className="project-card">
           <h3>Todo Task</h3>
           <p>A React-based task management app with local storage support to keep users organized.</p>
-          <a href="https://github.com/yourusername/task-tracker" target="_blank" rel="noopener noreferrer">View Code</a>
+          <a href="https://github.com/yourusername/task-tracker" target="_blank" rel="noopener noreferrer">View Project</a>
         </div>
         <div className="project-card">
           <h3>Expense Tracker</h3>
           <p>A web app that helps users monitor their expenses, set budgets, and visualize spending trends.</p>
-          <a href="https://github.com/yourusername/expense-tracker" target="_blank" rel="noopener noreferrer">View Code</a>
+          <a href="https://github.com/yourusername/expense-tracker" target="_blank" rel="noopener noreferrer">View Project</a>
         </div>
       </section>
 
@@ -80,7 +80,6 @@ function Page() {
           <li>JavaScript (ES6+)</li>
           <li>React.js</li>
           <li>HTML5 & CSS3</li>
-          <li>Tailwind CSS</li>
           <li>Git & GitHub</li>
           <li>Responsive Web Design</li>
           <li>Problem Solving & Debugging</li>
