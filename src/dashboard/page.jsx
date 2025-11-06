@@ -21,7 +21,7 @@ function Page() {
         <div className="about-container">
           <div className="profile-pic">
             <img 
-              src="your-photo.jpg"
+              src="./img/profile_pic.jpeg"
               alt="Profile of Chinaemelum Euphemia"
             />
           </div>
